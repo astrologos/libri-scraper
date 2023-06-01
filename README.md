@@ -10,6 +10,6 @@ To run this notebook, you need to mount your Google Drive. The notebook mounts y
 This notebook requires Chromium and Selenium to be installed. The code provided installs Chromium and its driver for running Selenium. It also installs the necessary Python library, Selenium, using pip.
 
 ## Data:
-LibriVox provides free public-domain audiobooks read by volunteers from around the world.  It is not transcribed or diarized.  Future work will involve both transcription and diarization.  Once compiled, the dataset will be available on HuggingFace.
+LibriVox provides free public-domain audiobooks read by volunteers from around the world.  It is not transcribed or diarized.  Future work will involve both transcription and diarization.  Once compiled, the dataset will be available on HuggingFace.  Most (if not all) audio files are sampled at 64kbps.
 
 This code is licensed under the Creative Commons Attribution-NonCommercial (CC BY-NC) license, allowing for non-commercial use and modification with proper attribution. See the license here: https://creativecommons.org/licenses/by-nc/2.0/
